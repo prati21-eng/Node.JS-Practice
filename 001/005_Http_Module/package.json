@@ -1,0 +1,11 @@
+{
+  "name": "005_http_module",
+  "version": "1.0.0",
+  "description": "my first http module project",
+  "main": "001_http_module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pratik Ghulels",
+  "license": "ISC"
+}

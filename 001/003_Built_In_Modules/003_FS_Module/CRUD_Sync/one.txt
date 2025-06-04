@@ -1,0 +1,2 @@
+My first file that i created usinf synchronous operationin node.js
+My first file that i created usinf synchronous operationin node.js
